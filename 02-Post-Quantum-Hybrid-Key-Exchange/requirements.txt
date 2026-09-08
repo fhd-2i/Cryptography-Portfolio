@@ -1,0 +1,3 @@
+cryptography==50.0.1
+mlkem==0.0.3
+pytest==9.1.1
